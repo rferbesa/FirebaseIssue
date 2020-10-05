@@ -1,0 +1,162 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Bolts (1.9.1):
+    - Bolts/AppLinks (= 1.9.1)
+    - Bolts/Tasks (= 1.9.1)
+  - Bolts/AppLinks (1.9.1):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.1)
+  - Branch (0.29.3):
+    - Branch/Core (= 0.29.3)
+  - Branch/Core (0.29.3)
+  - CleverTap-iOS-SDK (3.7.3):
+    - SDWebImage (~> 5.1)
+  - Cosmos (15.0.0)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - CryptoSwift (0.9.0)
+  - Fabric (1.9.0)
+  - FacebookCore (0.3.3):
+    - Bolts (~> 1.9)
+    - FBSDKCoreKit (~> 4.36)
+  - FBSDKCoreKit (4.36.0):
+    - Bolts (~> 1.7)
+  - Firebase (3.17.0):
+    - Firebase/Core (= 3.17.0)
+  - Firebase/Core (3.17.0):
+    - FirebaseAnalytics (= 3.9.0)
+    - FirebaseCore (= 3.6.0)
+  - FirebaseAnalytics (3.9.0):
+    - FirebaseCore (~> 3.6)
+    - FirebaseInstanceID (~> 1.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseCore (3.6.0):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseInstanceID (1.0.10):
+    - FirebaseCore (~> 3.6)
+  - FRHyperLabel (1.0.4)
+  - Google/Analytics (3.1.0):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (3.1.0):
+    - FirebaseAnalytics (~> 3.2)
+  - GoogleAnalytics (3.17.0)
+  - GoogleSymbolUtilities (1.1.2)
+  - GoogleTagManager (5.0.8):
+    - FirebaseAnalytics (~> 3.0)
+    - GoogleAnalytics (~> 3.0)
+    - GoogleUtilities (~> 1.3.0)
+  - GoogleToolboxForMac/Defines (2.2.2)
+  - "GoogleToolboxForMac/NSData+zlib (2.2.2)":
+    - GoogleToolboxForMac/Defines (= 2.2.2)
+  - GoogleUtilities (1.3.2):
+    - GoogleSymbolUtilities (~> 1.1)
+  - KeychainAccess (3.1.2)
+  - Kingfisher (4.7.0)
+  - PromiseKit (4.5.2):
+    - PromiseKit/Foundation (= 4.5.2)
+    - PromiseKit/QuartzCore (= 4.5.2)
+    - PromiseKit/UIKit (= 4.5.2)
+  - PromiseKit/CorePromise (4.5.2)
+  - PromiseKit/Foundation (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.5.2):
+    - PromiseKit/CorePromise
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+  - SDWebImage (5.9.2):
+    - SDWebImage/Core (= 5.9.2)
+  - SDWebImage/Core (5.9.2)
+  - TPKeyboardAvoiding (1.3.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.2)
+  - Bolts (~> 1.9.0)
+  - Branch (~> 0.29.3)
+  - CleverTap-iOS-SDK (~> 3.7.3)
+  - Cosmos (~> 15.0.0)
+  - Crashlytics (~> 3.12.0)
+  - CryptoSwift (~> 0.9.0)
+  - Fabric (~> 1.9.0)
+  - FacebookCore (~> 0.3.3)
+  - FBSDKCoreKit (~> 4.36.0)
+  - Firebase (~> 3.17.0)
+  - FRHyperLabel (~> 1.0.4)
+  - Google/Analytics (~> 3.1.0)
+  - GoogleTagManager (~> 5.0.8)
+  - KeychainAccess (~> 3.1.1)
+  - Kingfisher (~> 4.7.0)
+  - PromiseKit (~> 4.4)
+  - Realm (~> 4.4.0)
+  - RealmSwift (~> 4.4.0)
+  - TPKeyboardAvoiding (~> 1.3.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Bolts
+    - Branch
+    - CleverTap-iOS-SDK
+    - Cosmos
+    - Crashlytics
+    - CryptoSwift
+    - Fabric
+    - FacebookCore
+    - FBSDKCoreKit
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - FRHyperLabel
+    - Google
+    - GoogleAnalytics
+    - GoogleSymbolUtilities
+    - GoogleTagManager
+    - GoogleToolboxForMac
+    - GoogleUtilities
+    - KeychainAccess
+    - Kingfisher
+    - PromiseKit
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - TPKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
+  Branch: 9d40910c3d7f8516376fd166cb73a31cc7f73fcf
+  CleverTap-iOS-SDK: a371ba586348ffdb6bb47fcba556e8490f616434
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  Crashlytics: a33af323773f73904037dc2e684cd2f0d29f4fe2
+  CryptoSwift: bca8c5b653dcc2d9734409242a070ff53bafac86
+  Fabric: 09ef2d9b99b104702bede1acaf469fb8f20a9146
+  FacebookCore: 9ecbe48cfd37c91a93add7f8cec2b4a2c50a1eec
+  FBSDKCoreKit: 3b8e6570eedb443f9fc4af196a7bf39f18e3a3d8
+  Firebase: 4b66b5b59c43edac745b87f0c87e42cdd0279c13
+  FirebaseAnalytics: e5fe8486efc01bec33f6bf82e2fa9fce4b124052
+  FirebaseCore: 9691ee2ade70c098d7cf92440f4303f16d83ca75
+  FirebaseInstanceID: b9eedd6846fb5e1f0f7279e1deaa7a7e4cf8392e
+  FRHyperLabel: f4a127d5f8ffb211040554615e93f936d5a576a6
+  Google: 98da4b1a60ed0beb80a290387a28333406a1eb90
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  GoogleSymbolUtilities: 631ee17048aa5e9ab133470d768ea997a5ef9b96
+  GoogleTagManager: 312a9a033d224e66ceaa42f35f4c7bf893211d79
+  GoogleToolboxForMac: 800648f8b3127618c1b59c7f97684427630c5ea3
+  GoogleUtilities: 8bbc733218aad26306f9d4a253823986110e3358
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  PromiseKit: 743e497a5f505a470d3bbbf4ce0663c1268af0a4
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+  SDWebImage: 0b42b8719ab0c5257177d5894306e8a336b21cbb
+  TPKeyboardAvoiding: 7c2187e2338052b2c5be4a8052f297fdb124e261
+
+PODFILE CHECKSUM: 1c64081067004fad08b005d950384c325e1e4de7
+
+COCOAPODS: 1.8.4
